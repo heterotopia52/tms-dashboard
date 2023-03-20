@@ -54,7 +54,40 @@ Demo supports the last two versions of the following browsers:
 Within the download you'll find the following directories and files:
 
 ```
-.
-
-
+TMS-dashboard-page
+ ┣ public
+ ┃ ┣ apple-touch-icon-76x76.png
+ ┃ ┣ favicon.ico
+ ┃ ┗ index.html
+ ┣ src
+ ┃ ┣ assets
+ ┃ ┃ ┗ img
+ ┃ ┃ ┃ ┣ Vue.png
+ ┃ ┃ ┃ ┣ chrome-logo.png
+ ┃ ┃ ┃ ┣ dashboard_screenshot.png
+ ┃ ┃ ┃ ┣ edge-logo.png
+ ┃ ┃ ┃ ┣ favicon.ico
+ ┃ ┃ ┃ ┣ firefox-logo.png
+ ┃ ┃ ┃ ┣ opera-logo.png
+ ┃ ┃ ┃ ┣ safari-logo.png
+ ┃ ┃ ┃ ┣ tailwindCSS.png
+ ┃ ┃ ┃ ┗ user-solid.svg
+ ┃ ┣ components
+ ┃ ┃ ┣ AddCarrierModal.vue
+ ┃ ┃ ┣ AddShipmentModal.vue
+ ┃ ┃ ┣ BarChart.vue
+ ┃ ┃ ┣ LineChart.vue
+ ┃ ┃ ┣ Navbar.vue
+ ┃ ┃ ┣ NotificationDropdown.vue
+ ┃ ┃ ┣ Sidebar.vue
+ ┃ ┃ ┗ UserDropdown.vue
+ ┃ ┣ views
+ ┃ ┃ ┗ Dashboard.vue
+ ┃ ┣ App.vue
+ ┃ ┗ main.js
+ ┣ .gitignore
+ ┣ README.md
+ ┣ babel.config.js
+ ┣ package-lock.json
+ ┗ package.json
 ```
